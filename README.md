@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Yash%20Dhinoja&fontSize=52&fontAlignY=38&desc=Python%20%E2%80%A2%20DSA&descAlignY=60&descSize=18" alt="Header"/>
 
 <a href="https://github.com/yashsdhinoja">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3776AB&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Yash+Dhinoja;Python+Developer+%F0%9F%90%8D;Solving+DSA+%26+LeetCode+problems+%F0%9F%A7%A9;Learning+Backend%3A+Docker%2C+Redis%2C+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3776AB&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Yash+Dhinoja;Python+Developer+%F0%9F%90%8D;Solving+DSA+%26+LeetCode+problems+%F0%9F%A7%A9" alt="Typing SVG"/>
 </a>
 
 <br><br>
