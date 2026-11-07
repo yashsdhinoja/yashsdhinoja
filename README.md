@@ -69,9 +69,6 @@
 
 <div align="center">
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/username=yashsdhinoja&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=yashsdhinoja&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
