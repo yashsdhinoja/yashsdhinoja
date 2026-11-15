@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Yash%20Dhinoja&fontSize=56&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20DSA%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn" alt="Yash Dhinoja"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Yash%20Dhinoja&fontSize=56&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20DSA%20%E2%80%A2%20%20&descAlignY=60&descSize=20&animation=fadeIn" alt="Yash Dhinoja"/>
 
 <a href="https://github.com/yashsdhinoja">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3776AB&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Yash+Dhinoja;I+turn+problems+into+clean+Python+code+%F0%9F%90%8D;Solving+DSA+%26+LeetCode+problems+every+day+%F0%9F%A7%A9;Building+in+public%2C+one+commit+at+a+time+%F0%9F%9A%80;Let's+build+something+together+%F0%9F%A4%9D" alt="Typing SVG"/>
